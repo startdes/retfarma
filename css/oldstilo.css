@@ -53,12 +53,5 @@ html {
 }
 
 .propaganda {
-    width: 100%;
-    background-color: #ffffff;
-    line-height: 80px;
-    font-size: 18px;
-    color: #030303;
-    float: left;
-    text-align: center;
-
+    padding-top: 350px;
 }
